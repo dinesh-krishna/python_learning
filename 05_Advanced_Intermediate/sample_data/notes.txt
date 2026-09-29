@@ -1,0 +1,3 @@
+Line 1: Learning Python file handling.
+Line 2: The 'with' statement auto-closes the file.
+Line 3: Appended without erasing previous content.
